@@ -1,0 +1,40 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    },
+    "users": [
+        {
+            "name": "Md.Fahim",
+            "email": "alif@gmail.com",
+            "password": "321654987",
+            "id": 1
+        },
+        {
+            "name": "Md.Fahim Hossain",
+            "email": "alifhossain174@gmail.com",
+            "password": "321654987",
+            "id": 2
+        },
+        {
+            "name": "Md.Fahim Hossain",
+            "email": "alifhossain174@gmail.com",
+            "password": "321654987",
+            "status": "1",
+            "id": 3
+        }
+    ]
+}
